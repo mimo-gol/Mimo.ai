@@ -1,4 +1,3 @@
-import essentia
 import essentia.standard as es
 
 loader = es.MonoLoader(filename='testbeat.mp3')  # or 'yourfile.wav'
